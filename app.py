@@ -16,11 +16,10 @@ from flask import Flask, request, jsonify, send_from_directory, render_template,
 from flask_socketio import SocketIO, emit
 from werkzeug.datastructures import FileStorage
 from PIL import Image, UnidentifiedImageError
-import openai  # Old version import
+import openai
 import voice
 from VoicetoText import start_voice_to_text
 
-# Import Langchain components
 from langchain.llms import OpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
