@@ -2046,7 +2046,7 @@ Time: 1.60s | Words: 160
 
 #### Langchain Response
 ```
- The following information is required for permit applications: name and contact information of Duke & Pike contacts, designer name in the title box, measurements from existing equipment to the EOP or ROW and the proposed equipment, date on the construction print in the title box, and all other normal information.
+ The following information is required for permit applications: name and contact information of Parent Company & Utility contacts, designer name in the title box, measurements from existing equipment to the EOP or ROW and the proposed equipment, date on the construction print in the title box, and all other normal information.
 ```
 Time: 0.98s | Words: 50
 
@@ -2224,7 +2224,7 @@ Time: 1.87s | Words: 149
 
 #### Langchain Response
 ```
- The "Pike Engineering Plot Standard" document found on the L drive outlines the required elements and formatting for construction prints.
+ The "Utility Engineering Plot Standard" document found on the L drive outlines the required elements and formatting for construction prints.
 ```
 Time: 0.91s | Words: 20
 
